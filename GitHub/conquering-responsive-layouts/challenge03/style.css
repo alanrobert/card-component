@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 2rem;
+    color: white;
+}
+
+p {
+    font-weight: 300;
+    font-size: 0.9rem;
+    line-height: 1.3rem;
+    color: white;
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 0.9rem;
+    color: #23424A;
+}
+
+a {
+    text-decoration: none;
+}
+
+.hero {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #23424A;
+}
+
+.hero-wrapper {
+    padding: 4.8em;
+}
+
+.hero-text {
+    width: 54%;
+}
+
+.call-to-action-btn {
+    width: fit-content;
+    background-color: #38CFD9;
+    padding: 0.1rem 1.9rem;
+    border-radius: 3rem;
+    margin: 2.5rem 0;
+}
+
