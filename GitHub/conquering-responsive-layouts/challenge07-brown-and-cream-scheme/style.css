@@ -1,0 +1,104 @@
+html {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-weight: 900;
+    color: #824936;
+ 
+}
+
+h2 {
+    font-size: 1.7rem;
+    letter-spacing: .05rem;
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 1rem;;
+    color: #222C2A;
+    text-transform: uppercase;
+    font-size: .75rem;
+    letter-spacing: .4rem;
+    
+    padding: .5rem;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: .9rem;
+    line-height: 1.5;
+}
+
+.container {
+    width: 60%;
+    max-width: 70.5rem;
+    margin: 0 auto;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+
+header {
+    background-color: #F3EED9;
+}
+
+.header-type {
+    margin: 0 auto;
+    width: 55%;
+    text-align: center;
+    padding: 6rem 0;
+}
+
+.header-H1 {
+    font-size: 2rem;
+}
+
+.primary-paragraph {
+    width: 48%;
+    color: #222C2A;
+}
+
+.primary-text-header {
+    margin: 0 auto;
+    margin-bottom: 1.2rem;
+    color: #824936;
+}
+
+.primary-text {
+    margin: 4rem 0;
+}
+
+.secondary-text {
+    width: 45%;
+    color: #F3EED9;
+}
+
+.secondary-image {
+    width: 45%;
+}
+
+.body-img {
+    max-width: 100%
+}
+
+.section-one {
+    background-color:#222C2A;
+    padding: 4rem 0;
+}
+
+.section-two {
+    background-color: #824936;
+    padding: 4rem 0;
+}
+
